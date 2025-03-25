@@ -47,3 +47,10 @@
   margin: 20px;
   border-radius: 20px;
 }
+
+.card{
+  border: 1px solid tomato;
+  padding: 20px;
+  border-radius: 20px;
+  margin: 20px;
+}
